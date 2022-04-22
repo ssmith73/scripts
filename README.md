@@ -1,2 +1,2 @@
 # scripts
-Various scripts to support software deve
+Various scripts to support software developments
