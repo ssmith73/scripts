@@ -15,8 +15,8 @@ echo "Setting up Bash!"
 sleep 2
 rm -rf .bash
 rm -f .bashrc
-cp -r ./scripts/.bash .
-cp ./scripts/.bashrc .
+cp -r ./scripts/bash/.bash .
+cp ./scripts/bash/.bashrc .
 clear
 clear
 echo "Done!!"
