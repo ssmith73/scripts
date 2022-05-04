@@ -19,6 +19,7 @@ cp -r ./scripts/bash/.bash .
 cp ./scripts/bash/.bashrc .
 clear
 clear
+source ~/.bashrc
 echo "Done!!"
 
 
